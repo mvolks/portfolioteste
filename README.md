@@ -7,8 +7,8 @@ Primeiro portfolio teste desenvolvido com os cursos da Alura.
 
 ## !! Tecnologias utilizadas:
 
-*HTML5
-*CSS3
+* HTML5
+* CSS3
 
 ## !! Feito por:
 * https://github.com/mvolks
