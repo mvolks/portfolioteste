@@ -2,7 +2,7 @@
 Primeiro portfolio teste desenvolvido com os cursos da Alura.
 #          ##descrição temporaria##
 
-![image](<img width="1864" height="955" alt="Captura de tela 2025-07-25 175552" src="https://github.com/user-attachments/assets/005bb822-0d7b-4357-b9e6-13afd32a158c" />)
+<img  alt="Image" src="https://github.com/user-attachments/assets/586399c0-0556-4378-ae90-5c5a51055c6c" />
 
 
 ## !! Tecnologias utilizadas:
